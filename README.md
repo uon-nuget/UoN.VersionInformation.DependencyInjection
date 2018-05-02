@@ -1,8 +1,8 @@
 # UoN.VersionInformation.DependencyInjection
 
 [![License](https://img.shields.io/badge/licence-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.org/UniversityOfNottingham/UoN.VersionInformation.svg?branch=master)](https://travis-ci.org/UniversityOfNottingham/UoN.VersionInformation)
-[![NuGet](https://img.shields.io/nuget/v/UoN.VersionInformation.svg)](https://www.nuget.org/packages/UoN.VersionInformation/)
+[![Build Status](https://travis-ci.org/uon-nuget/UoN.VersionInformation.DependencyInjection.svg?branch=master)](https://travis-ci.org/uon-nuget/UoN.VersionInformation.DependencyInjection)
+[![NuGet](https://img.shields.io/nuget/v/UoN.VersionInformation.DependencyInjection.svg)](https://www.nuget.org/packages/UoN.VersionInformation.DependencyInjection/)
 
 # What is it?
 
